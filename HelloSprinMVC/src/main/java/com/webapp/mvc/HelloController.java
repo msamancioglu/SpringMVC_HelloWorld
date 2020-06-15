@@ -12,8 +12,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * reach me at msamancioglu@hotmail.com 
  *
  */
-
-
 @Controller
 public class HelloController {
 	@RequestMapping(value = "/hello")
